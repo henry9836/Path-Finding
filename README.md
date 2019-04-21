@@ -12,3 +12,4 @@ A Simple A* Path Finding Program
 - Placeable Start and Finish
 
 ![An Example Of No Solution](https://i.imgur.com/69PxbgO.gif)
+![An Example Of A Maze being solved](https://i.imgur.com/raOiBgl.gif)
